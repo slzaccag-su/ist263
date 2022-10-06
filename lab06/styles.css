@@ -1,3 +1,5 @@
 body {font-family: Georgia, 'Times New Roman', Times, serif;}
 h1, h2 {color:cornflowerblue;}
 .evenrow {background-color:lightblue;}
+h1 {font-face: 2 em;}
+h2 {font-face: 1 em;}
