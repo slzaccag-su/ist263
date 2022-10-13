@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/otto.png");
+}
+
+p {
+    background-color: #fab663;
+    border: 3px solid #f0650e;
+    margin: 20px;
+    padding: 20px;
+}
