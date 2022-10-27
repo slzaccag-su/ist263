@@ -1,0 +1,85 @@
+nav {
+    background-color: #f99b8e;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a{
+    color: #a5844b;
+}
+nav a:hover {
+    background-color: #d5edf7;
+}
+
+body {
+    background-color: #f3d7c8;
+    color: #ec8173;
+}
+
+h1 {
+    color: #704C36;
+}
+
+h2 {
+    color: #916347;
+}
+
+a:visited {
+    color: #5C573A;
+}
+a:hover {
+    color: #e3b56b;
+}
+a {
+    color: #68baed;
+}
+.quote {
+    float: right;
+}
+.contact1 {
+    display: flex; 
+    padding: 20px; 
+    background-color: #fcefec; 
+    border-radius: 1em;
+    margin-bottom: 20px;
+    margin: 30px;
+}
+.contact2{
+    display: flex;
+    padding: 20px;
+    background-color: #fcefec;
+    border-radius: 1em;
+    margin-top: 20px;
+    margin: 30px;
+}
+.contact1 .column2 {
+    margin-left: 50px;
+}
+.contact2 .column3 {
+    flex: 1;
+}
+.contact2 .column4 {
+    margin-left: 50px;
+    flex: 3;
+}
+.contactheading {
+    margin-left: 30px;
+}
+.skillsheading {
+    text-align: center;
+}
+.skillsflex {
+    display: flex;
+    flex-basis: 40%;
+    justify-content: space-evenly;
+}
+.asideflex {
+    flex-basis: 60%;
+    justify-content: space-evenly;
+}
+.flexbox2 {
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
