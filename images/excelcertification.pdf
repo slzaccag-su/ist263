@@ -1,0 +1,397 @@
+
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en" >
+<html>
+<head>
+	<title>View Transcript</title>
+	<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+	<meta name="CODE_LANGUAGE" content="C#">
+	<meta name="vs_defaultClientScript" content="JavaScript">
+	<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	<link href='/Portal/Portal.css' type="text/css" rel="stylesheet">
+</head>
+<body>
+	<form method="post" action="./ViewTranscript.aspx?printview=true&amp;defaultlang=ENU" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script language='javascript'>function displayPrivacyFooter() {var privacy ='privacy_window'; window.open('http://www.pearsonvue.com/legal/privacy/', privacy, 'titlebar=no,toolbar=no,status=no,location=no,menubar=no,resizable=no,scrollbars=yes,height=1000,width=1050');return;}</script><script language='javascript'>function displayCookieFooter() {var privacy ='privacy_window'; window.open('https://home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx#cookies-and-web-beacons', privacy, 'titlebar=no,toolbar=no,status=no,location=no,menubar=no,resizable=no,scrollbars=yes,height=1000,width=1050');return;}</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="40F1B25C" />
+</div>
+	<table id="Table1" cellspacing="0" cellpadding="0" width="100%" border="0" role="presentation">
+	<tr>
+		<td width="100%" align="center">
+					<table id="c_BannerContainer" cellspacing="0" cellpadding="0" width="1000" border="0" role="presentation">
+			<tr>
+				<td>
+								<table cellspacing="0" cellpadding="0" width="100%" border="0">
+									<tr>										
+										<td><header role="banner"></header></td>										
+									</tr>
+									<tr style="background-color: White;"><td>&nbsp;</td></tr>
+								</table>
+							</td>
+			</tr>
+		</table>
+		
+					<table cellspacing="0" cellpadding="0" width="1000" border="0" role="presentation">
+						<tr>
+							<td width="30" style="background-color: White;">&nbsp;</td>
+							<td width="*" style="background-color: White;">								
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td>
+				<span id="c_Message"></span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				
+<link href="/portal/Portal.css" type="text/css" rel="stylesheet" />
+<style type="text/css">
+	.CertificationName
+	{
+		padding-left: 8px;
+		width: 55%;
+	}
+	.ProductName
+	{
+		width: 55%;
+	}
+	.PassFail
+	{
+		vertical-align: top;
+		width: 15%;
+	}
+	.ExamDateTime
+	{
+		vertical-align: top;
+		width: 15%;
+		white-space: nowrap;
+		text-align: left;
+	}
+	.ScoreBtn
+	{
+		vertical-align: top;
+		width: 15%;
+		height: 19px;
+	}
+	.ViewCert
+	{
+		vertical-align: top;
+		width: 15%;
+	}
+	.OrderCert
+	{
+		vertical-align: top;
+		text-align: center;
+		width: 30%;
+	}
+	.WorkshopName
+	{
+		padding-left: 8px;
+		width: 55%;
+	}
+	.WorkshopCertName
+	{
+		padding-left: 16px;
+		width: 55%;
+	}
+	.CEUs
+	{
+		width: 15%;
+		text-align: center;
+	}
+	.GrantedDate
+	{
+		width: 15%;
+		white-space: nowrap;
+	}
+   	.ExpirationStatus
+	{
+		font-size: 8pt;
+        padding-left: 15px;
+	}
+    .clickPDF:visited {
+        color: blue;
+    }
+</style>
+
+<script type="text/javascript">
+    function buycert(EncProductID) {
+        this.location.href = "/Portal/pages/UserPurchase.aspx?id=" + EncProductID;
+    }
+
+	function mupscorereport() {
+		var newURL = "";
+		if (newURL != "")
+			window.open(newURL);
+	}
+
+</script>
+
+<input type="hidden" name="SFV" value="28737" />
+<input type="hidden" name="sku" />
+<input type="hidden" name="RID" value="1" />
+<input type="hidden" name="cv1" value="candidate_id:0" />
+<input type="hidden" name="cv2" value="session_id:0" />
+<input type="hidden" name="cv3" value="redirect_url:https://www.certiport.com/portal/desktopdefault.aspx?roleid=1" />
+
+<div id="c_Transcript_c_TranscriptDiv">
+	
+	
+	
+	<table class="TableBorder" cellspacing="0" cellpadding="0" width="100%">
+		<tr>
+			<td>
+				<table width="100%">
+					<tr id="c_Transcript_c_MainLogo">
+			<td class="TranscriptLogoBG" align="center">
+							<img style="width: 350px;" src="/portal/images/certiportlogo-transparent.png" />
+						</td>
+		</tr>
+		
+					<tr><td style="height: 10px;"></td></tr>
+					<tr valign="top">
+						<td align="center">
+							<span id="c_Transcript_c_Header" class="LargeText">Authenticated Digital Transcript of Certifications</span><br />
+							<span id="c_Transcript_c_CurrDate" class="SubHead">November 2, 2022</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							&nbsp;
+						</td>
+					</tr>
+					<tr valign="top">
+						<td align="center">
+							<span id="c_Transcript_c_UserName" class="LargeText">Sierra Zaccagnino</span><br />
+							<span id="c_Transcript_c_Address" class="SubHead">11 Atkinson Lane</span><br />
+							<span id="c_Transcript_c_Address2" class="SubHead">Newtown PA  18940<br/></span><span id="c_Transcript_c_Address3" class="SubHead"></span><span id="c_Transcript_c_Address4" class="SubHead"></span><span id="c_Transcript_c_Address5" class="SubHead"></span>
+							<a id="c_Transcript_c_Email" class="SubHead">slzaccag@syr.edu</a>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							<span id="c_Transcript_c_TranscriptInfo1" style="font-style:italic;">This real-time Certiport Digital Transcript is derived from a global database which tracks and authenticates certification exams administered by over 12,000 testing centers worldwide.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table id="c_Transcript_c_MCASTable" width="100%">
+			<tr>
+				<td>
+										<table class="TranscriptBarSectionHeaderBG" cellspacing="0" cellpadding="0" width="100%">
+											<tr>
+												<td valign="middle" style="white-space:nowrap;" align="center" height="20">
+													<span id="c_Transcript_c_HeaderSectionLblMCAS" class="TranscriptBarSectionHeader">Microsoft Office Specialist</span>
+												</td>
+											</tr>
+										</table>
+										<table width="100%">
+											<tr>
+												<td valign="middle" width="20%">
+													<img id="c_Transcript_c_MCASLogo" src="/Portal/images/mslogo_small.png" />
+												</td>
+												<td>
+													<table cellspacing="0" cellpadding="0" style="border-width:0px;border-style:None;width:100%;border-collapse:collapse;margin-bottom:10px;;">
+					<tr>
+						<td class="TranscriptBarSubSectionHeaderBG">Certifications</td><td>&nbsp;</td><td>&nbsp;</td>
+					</tr><tr>
+						<td class="CertificationName">Excel 2019</td><td class="OrderCert">Granted</td>
+					</tr>
+				</table><table cellspacing="0" cellpadding="0" style="border-width:0px;border-style:None;width:100%;border-collapse:collapse;">
+					<tr>
+						<td class="TranscriptBarSubSectionHeaderBG">Exams</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					</tr><tr>
+						<td class="ProductName"><table width="100%" cellpadding=0 cellspacing=0><tr><td width="10">&nbsp;</td><td colspan=2>Microsoft Excel (Office 2019)</td></tr><tr><td width="10">&nbsp;</td><td width="10">&nbsp;</td><td width="95%"><span style="FONT-SIZE: 7pt;"><b>Administered by:</b>&nbsp;Newhouse School at Syracuse University</span><br/><span style="FONT-SIZE: 7pt;"><b>Language:</b>&nbsp;English</span></td></tr></table></td><td class="PassFail">Passed&nbsp;</td><td class="ExamDateTime">11/2/2022</td>
+					</tr>
+				</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+			</tr>
+		</table>
+		
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+					</tr>
+				</table>
+				<table class="TranscriptBarSectionHeaderBG" cellspacing="0" width="100%">
+					<tr>
+						<td align="center" height="15">
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<br />
+				<span id="c_Transcript_c_TranscriptInfo2" style="font-style:italic;">For information about Certiport, please visit <b>www.certiport.com</b>. Certiport is the leading provider of global, performance-based certification programs and services designed to enable individual success and lifetime advancement through certification.</span>
+			</td>
+		</tr>
+	</table>
+</div>
+
+			</td>
+		</tr>
+	</table>
+	<br />
+	
+							</td>
+							<td width="30" style="background-color: White;">&nbsp;</td>
+						</tr>
+					</table>
+				</td>
+	</tr>
+</table>
+
+		<div id="footerdiv" align="center"><footer role="contentinfo"></footer></div>
+</form>
+</body>
+</html>
