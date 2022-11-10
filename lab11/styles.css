@@ -40,7 +40,7 @@ a {
 .contact1 {
     display: flex; 
     padding: 20px; 
-    background-color: #fcefec; 
+    background-color: #fff4f1bd; 
     border-radius: 1em;
     margin-bottom: 20px;
     margin: 30px;
@@ -48,7 +48,7 @@ a {
 .contact2{
     display: flex;
     padding: 20px;
-    background-color: #fcefec;
+    background-color: #fff4f1bd;
     border-radius: 1em;
     margin-top: 20px;
     margin: 30px;
@@ -122,4 +122,10 @@ ul {
 }
 aside p {
     color: #be002c;
+}
+hr {
+    color:#2e2312;
+}
+a {
+    color: black;
 }
