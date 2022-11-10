@@ -117,3 +117,6 @@ p, ul, nav {
     left: 10px;
     top: 15px;
 }
+ul {
+    color: #2e2312;
+}
