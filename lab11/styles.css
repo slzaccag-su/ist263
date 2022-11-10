@@ -1,0 +1,119 @@
+nav {
+    background-color: #f99b8e;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a{
+    color: #a5844b;
+}
+nav a:hover {
+    background-color: #d5edf7;
+}
+
+body {
+    background-color: #f3d7c8;
+    color: #ec8173;
+}
+
+h1 {
+    color: #704C36;
+    font-size: 2em;
+}
+
+h2 {
+    color: #916347;
+    font-size: 2em;
+}
+
+a:visited {
+    color: #5C573A;
+}
+a:hover {
+    color: #e3b56b;
+}
+a {
+    color: #68baed;
+}
+.quote {
+    float: right;
+}
+.contact1 {
+    display: flex; 
+    padding: 20px; 
+    background-color: #fcefec; 
+    border-radius: 1em;
+    margin-bottom: 20px;
+    margin: 30px;
+}
+.contact2{
+    display: flex;
+    padding: 20px;
+    background-color: #fcefec;
+    border-radius: 1em;
+    margin-top: 20px;
+    margin: 30px;
+    flex-wrap: wrap;
+}
+.contact1 .column2 {
+    margin-left: 50px;
+}
+.contact2 .column3 {
+    flex: 1;
+}
+.contact2 .column4 {
+    margin-left: 50px;
+    flex: 3;
+}
+.contactheading {
+    margin-left: 30px;
+}
+.skillsheading {
+    text-align: center;
+}
+.skillsflex {
+    display: flex;
+    flex-basis: 40%;
+    justify-content: space-evenly;
+}
+.asideflex {
+    flex-basis: 60%;
+    justify-content: space-evenly;
+}
+.flexbox2 {
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+    max-width: 100%;
+}
+.indexbanner {
+    max-width: 100%;
+}
+.column3 {
+    order: 1;
+}
+.column4 {
+    order: 2;
+}
+@media only screen and (max-width: 375px) {
+    nav a {
+    max-width: 100%;
+    display: block;
+    padding: 3px;}
+    span {
+        display:none;
+    }
+}
+p, ul, nav {
+    font-size: 1.5em;;
+}
+#skip, #skip2, #skip3 {
+    background-color:  #fcefec;
+    border: 1px solid #a5844b;
+    padding: 2px;
+    position: absolute; 
+    left: -999px;
+}
+#skip:focus, #skip2:focus, #skip3:focus{
+    left: 10px;
+    top: 15px;
+}
