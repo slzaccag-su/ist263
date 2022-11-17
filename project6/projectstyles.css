@@ -1,0 +1,70 @@
+body {
+    background-color: #e5f6ff;
+    color: #408bb0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav a, nav a:visited {
+    color: #00960a;
+}
+nav {
+    padding: 40px;
+}
+a:visited {
+    color: #070e66;
+}
+.sitetitle {
+    font-size: 2em;
+}
+.homeparentflex{
+    display: flex;
+    justify-content: space-around;
+}
+.column1 {
+    flex: 1;
+}
+.column2 {
+    flex: 2;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.flexhack {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+.hometext {
+    margin: 50px;
+}
+#firstline {
+    font-style: italic;
+}
+.homeimage {
+    max-width: 100%;
+}
+.articleflex {
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+    width: 50%;
+    background-color: #4b7896;
+    border-radius: 1em
+}
+.columnimage {
+    flex: 1.5;
+    margin: 20px;
+}
+.columntext {
+    flex: 2;
+    color: #e5f6ff;
+    margin: 20px;
+}
+#oasisband {
+    max-width: 100%;
+}
+#vinyls {
+    max-width: 100%;
+}
