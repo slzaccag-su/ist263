@@ -1,10 +1,10 @@
 body {
-    background-color: #e5f6ff;
-    color: #408bb0;
+    background-color: #f1f9fd;
+    color: #1a77a6;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav a, nav a:visited {
-    color: #00960a;
+    color: #004b05;
 }
 nav {
     padding: 40px;
@@ -55,17 +55,19 @@ h1 {
     justify-content: center;
     width: 50%;
     max-width: 100%;
-    background-color: #4b7896;
+    background-color: #285e83;
     border-radius: 1em
 }
 .columnimage {
     flex: 1.5;
     margin: 20px;
+    flex-wrap: wrap;
 }
 .columntext {
     flex: 2;
-    color: #e5f6ff;
+    color: #fdfeff;
     margin: 20px;
+    flex-wrap: wrap;
 }
 #oasisband {
     max-width: 100%;
@@ -79,6 +81,5 @@ h1 {
     display: block;
     padding: 3px;}
     span {
-        display:none;
-    }
+        display:none;}
 }
