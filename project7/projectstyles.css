@@ -83,3 +83,17 @@ h1 {
     span {
         display:none;}
 }
+.bioflex1 {
+    display: flex;
+    margin: 50px;
+}
+.bioflex2 {
+    display: flex;
+    margin: 50px;
+}
+.textcolumn {
+    flex: 2;
+}
+.picturecolumn {
+    flex: 1;
+}
