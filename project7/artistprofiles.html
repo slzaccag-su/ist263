@@ -7,6 +7,11 @@
     <title>Artist Profiles</title>
     <link rel="stylesheet" href="projectstyles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display&family=Poppins&display=swap" rel="stylesheet">
+    <script>
+        function fullscreen(){
+            document.getElementById("gallaghervideo").style.objectFit = "fill";
+        }
+    </script>
 </head>
 <body>
     <nav>
@@ -28,10 +33,11 @@
     <div class="biggerfont"><h3>Writing a Second Album</h3>
     <p>“Don't Look Back in Anger” is an iconic rock ballad from Oasis' sophomore album <i>What's the Story (Morning Glory)</i>. While the band was facing certain pressure to follow their first album's success, the art of their songwriting comes in simple strives. The goal they had in mind when writing this new album was to focus on strong choruses. If your song has a great chorus with a great tune to sing along to, then people will enjoy it—it was a simple premise. Album producer Owen Morris claims that for one week, they recorded a different song from the album each day. </p>
     <p>While in the midst of writing “Don't Look Back in Anger,” Noel Gallagher was preparing to play Oasis' first big arena gig two nights later. He already had the chords for the song figured out and was playing around with the lyrics. He continued to do this at their gig's soundcheck, where his brother Liam interrupted him with misheard lyrics. Gallagher enjoyed the lines “and so Sally can wait” and started to run off with the rest of the chorus. He wrote and finished the song in his dressing room that night and went on to play it for the first time ever at the same concert in front of nearly 20,000 people.</p></div>
+
     
         <div class="clear"></div><h3 class="centertext">Interviews</h3>
         <p>Check out this GQ video featuring lyricist of Oasis, Noel Gallagher:</p>
-        <div class="flexhack"><iframe width="560" height="315" src="https://www.youtube.com/embed/6UYQnpDT1UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="flexhack"><iframe  width="560" height="315" src="https://www.youtube.com/embed/6UYQnpDT1UM" id="gallaghervideo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onclick="fullscreen();"></iframe></div>
     <footer>
         &copy; 2022
     </footer>
