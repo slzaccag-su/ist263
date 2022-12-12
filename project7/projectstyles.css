@@ -1,7 +1,8 @@
 body {
     background-color: #f1f9fd;
     color: #1a77a6;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
 }
 nav a, nav a:visited {
     color: #004b05;
@@ -41,6 +42,7 @@ h1 {
 }
 .hometext {
     margin: 50px;
+    font-size: 1.2em;
 }
 #firstline {
     font-style: italic;
@@ -58,6 +60,9 @@ h1 {
     background-color: #285e83;
     border-radius: 1em
 }
+.articleflex p {
+    max-width: 100%;
+}
 .columnimage {
     flex: 1.5;
     margin: 20px;
@@ -70,10 +75,14 @@ h1 {
     flex-wrap: wrap;
 }
 #oasisband {
+    justify-content: center;
     max-width: 100%;
 }
 #vinyls {
+    float: right;
     max-width: 100%;
+    padding: 30px;
+    justify-content: center;
 }
 @media only screen and (max-width: 800px) {
     nav a {
@@ -83,17 +92,33 @@ h1 {
     span {
         display:none;}
 }
-.bioflex1 {
-    display: flex;
-    margin: 50px;
-}
-.bioflex2 {
-    display: flex;
-    margin: 50px;
-}
 .textcolumn {
     flex: 2;
 }
 .picturecolumn {
     flex: 1;
 }
+.centertext {
+    text-align: center;
+}
+#morningglory {
+    float: left;
+    max-width: 100%;
+    justify-content: center;
+    padding: 30px;
+}
+.biggerfont {
+    font-size: 1.2em;
+}
+.clear {
+    clear:both;
+}
+.lefttext {
+    text-align: left;
+}
+.interviewstyle {
+    margin: 20px;
+    max-width: 100%;
+}
+
+
